@@ -2,6 +2,7 @@
 
 - ✏️ Read my blog on https://lgf.im
 - 📫 How to reach me: i@lgf.im
+- 🌏 Discuss here: [discussions](https://github.com/zu1k/zu1k/discussions)
 
 ### Github stats
 
