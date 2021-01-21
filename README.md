@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ✏️ Read my blog on https://lgf.im
-- 📰 My RSS reader https://rss/lgf.im
+- 📰 My RSS reader https://rss.lgf.im
 - 📫 How to reach me: i@lgf.im
 - 🌏 Discuss here: [discussions](https://github.com/zu1k/zu1k/discussions)
 
