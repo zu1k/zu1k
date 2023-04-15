@@ -1,0 +1,23 @@
+name: Archive SVG
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: archive stats image
+        run: |
+          curl --retry 3 -o github-stats.svg "https://github-readme-stats.zu1k.com/api?username=zu1k&count_private=true&show_icons=true&include_orgs=true"
+          curl --retry 3 -o github-trophy.svg "https://github-profile-trophy.vercel.app/?username=zu1k&column=4&margin-w=8&margin-h=6"
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: zu1k
+          author_email: i@zu1k.com
+          message: 'archive svg'
+          add: '*.svg'

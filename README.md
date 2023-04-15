@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**zu1k/zu1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✏️ Read my blog on https://zu1k.com
+- 📫 How to reach me: i@zu1k.com
 
-Here are some ideas to get you started:
+### Recent Posts
+<!-- BLOG-POST-LIST:START -->
+- [谈谈 Mastodon、Fediverse 和 ActivityPub](https://zu1k.com/posts/tutorials/p2p/fediverse/)
+- [IPFS 日用优化指南](https://zu1k.com/posts/tutorials/p2p/ipfs-easy-use/)
+- [谁不想要 2^64 个 IP 的代理池 ？](https://zu1k.com/posts/tutorials/http-proxy-ipv6-pool/)
+- [我爱 Rust 过程宏](https://zu1k.com/posts/coding/i-love-rust-proc_macro/)
+- [使用 TUN 的模式](https://zu1k.com/posts/coding/tun-mode/)
+<!-- BLOG-POST-LIST:END -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats
+
+![zu1k's GitHub Stats](github-stats.svg)
+
+![zu1k's GitHub Trophies](github-trophy.svg)
