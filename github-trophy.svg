@@ -589,7 +589,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 0.4px;
+        width: 0.64px;
       }
     }
     #Commits-rank-progress{
