@@ -13,7 +13,7 @@ jobs:
       - name: archive stats image
         run: |
           curl --retry 3 -o github-stats.svg "https://github-readme-stats.zu1k.com/api?username=zu1k&count_private=true&show_icons=true&include_orgs=true"
-          curl --retry 3 -o github-trophy.svg "https://github-profile-trophy-zu1k.vercel.app/?username=zu1k&column=3&margin-w=8&margin-h=6"
+          curl --retry 3 -o github-trophy.svg "https://github-profile-trophy-zu1k.vercel.app/?username=zu1k&column=4&rand=-C,-B&margin-w=8&margin-h=6"
           curl --retry 3 -o github-stats-full.svg "https://raw.githubusercontent.com/zu1k/github-stats/master/generated/overview.svg"
           curl --retry 3 -o github-langs.svg "https://raw.githubusercontent.com/zu1k/github-stats/master/generated/languages.svg"
       - name: Commit changes
