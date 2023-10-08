@@ -17,3 +17,9 @@
 ![zu1k's GitHub Stats](github-stats.svg)
 
 ![zu1k's GitHub Trophies](github-trophy.svg)
+
+<div>
+  <img src="github-stats-full.svg" />
+  <img src="github-langs.svg" />
+</div>
+
