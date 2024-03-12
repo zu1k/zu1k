@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">zu1k's GitHub Stats, Rank: S</title>
-        <desc id="descId">Total Stars Earned: 17674, Total Commits in 2024 : 17674, Total PRs: 56, Total Issues: 73, Contributed to (last year): 11</desc>
+        <desc id="descId">Total Stars Earned: 17677, Total Commits in 2024 : 17677, Total PRs: 56, Total Issues: 73, Contributed to (last year): 11</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -67,7 +67,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 61.2491440562262;
+        stroke-dashoffset: 61.219647003861816;
       }
     }
   
