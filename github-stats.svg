@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">zu1k's GitHub Stats, Rank: A++</title>
-        <desc id="descId">Total Stars Earned: 18330, Total Commits in 2024 : 18330, Total PRs: 57, Total Issues: 73, Contributed to (last year): 2</desc>
+        <title id="titleId">zu1k's GitHub Stats, Rank: S</title>
+        <desc id="descId">Total Stars Earned: 18332, Total Commits in 2024 : 18332, Total PRs: 57, Total Issues: 73, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -67,7 +67,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 62.83620392448513;
+        stroke-dashoffset: 62.82531320580077;
       }
     }
   
@@ -142,7 +142,7 @@
             dominant-baseline="central"
             text-anchor="middle"
           >
-            A++
+            S
           </text>
         </g>
       </g>
@@ -175,7 +175,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >412</text>
+      >413</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
